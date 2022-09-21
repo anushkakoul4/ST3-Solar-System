@@ -1,0 +1,83 @@
+
+        body{
+            color: white;
+            background-color: black;
+        }
+        h1{
+            text-align: center;
+            color:rgb(255, 250, 93);
+            font-size: 40px;
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            
+        }
+        input{
+            text-align: center;
+            margin-left: 37%;
+            border: 1px solid white;
+            border-radius: 5px;
+            width: 26%;
+            height: 35px;
+            color: white;
+            background-color: black;
+        }
+        img{
+            border-radius: 50%;
+            /* align-items: center; */
+            margin: 2% 2% -2% 4%;
+            cursor: pointer;
+        }
+        #satrun{
+            border-radius: 50%;
+            /* width: 230px; */
+            height: 160px;
+            margin-left: 5%;
+            margin-right: -32px;
+        }
+        #sun{
+            margin-left: 12%;
+            margin-right: 33%;
+        }
+        #mercury{
+            margin-left: 30%;
+        }
+        #p{
+            margin-top: 1%;
+            text-align: center;
+            color: red;
+        }
+        span{
+            margin: 2.5% 5% 0% 9.8%;
+            display: inline-flex;
+            font-weight:bold;
+        }
+        #jup{
+            margin-left: 10%;
+        }
+        #ven{
+            margin-left: 10.6%;
+        }
+        #mar{
+            margin-left: 10.5%;
+        }
+        #nep{
+            margin-left: 10%;
+        }
+        #uranus{
+            margin-left: 10%;
+        }
+        #sun{
+            margin-left: 25%;
+        }
+        #plu{
+            margin-left: 34%;
+        }
+        #parent, #parent2{
+            display: inline-flex;
+        }
+        .im h3{
+            display: inline-flex;
+            padding:0px 0% 0% 33%;
+        }
+        .im{
+            padding-left:20px ;
+        }
